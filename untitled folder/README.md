@@ -1,7 +1,4 @@
 # Memory Game Project
-built by samah 
-tools used ;
-html, css and js 
 
 ## Table of Contents
 

@@ -82,13 +82,10 @@ h1 {
 }
 
 /*
- * Styles for the 
- Score Panel
+ * Styles for the Score Panel
  */
 
 .score-panel {
-    display: flex;
-    justify-content: space-between;
     text-align: left;
     width: 345px;
     margin-bottom: 10px;
